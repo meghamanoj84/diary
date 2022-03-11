@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "283346459414",
+    "project_id": "dairy-app-ccbbd",
+    "storage_bucket": "dairy-app-ccbbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:283346459414:android:114c325f0f894b949ece37",
+        "android_client_info": {
+          "package_name": "com.example.diary_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "283346459414-qfd7jkt08u6vpkdl079hbol9ni55iod2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQMguo22xsENZCWnTjqkKlMe-LG9MHP7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "283346459414-qfd7jkt08u6vpkdl079hbol9ni55iod2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
