@@ -4,7 +4,7 @@ This is a new flutter project done by us as a part of tinkerhub Co-coder event. 
 
 ## Team members
 1. megha mannoj [https://github.com/meghamanoj84]
-2. muhammed yasin k A [                          ]
+2. muhammed yasin k A [https://github.com/muhammadhyasin]
 
 ## Flutter/8
 
